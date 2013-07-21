@@ -1,4 +1,4 @@
 homedir2003
 ===========
 
-gems from an old backup
+See the [[wiki][https://github.com/englishm/homedir2003]]
