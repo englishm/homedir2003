@@ -1,0 +1,191 @@
+.
+├── Ac\ Dc
+│   └── Back\ in\ Black.txt
+├── Am\ Hi-Fi
+│   └── Flavor\ of\ the\ week.txt
+├── Beatles
+│   └── day_tripper.txt
+├── Blink
+│   ├── the_rock_show.txt
+│   └── what's\ my\ age\ again.txt
+├── Counting\ Crows
+│   ├── mr_jones.txt
+│   ├── omaha.txt
+│   └── round_here.txt
+├── Creed
+│   ├── crdhigher.txt
+│   ├── crdhigher2.doc
+│   ├── crdwhatif.txt
+│   └── crdwitarmswideopen.txt
+├── Dave\ Matthews\ Band
+│   ├── crash2.php
+│   ├── dmcrash.doc
+│   ├── dmcrash.txt
+│   ├── jimi_thing.php
+│   └── space_between.txt
+├── Dc\ Talk
+│   ├── between_you_and_me2.txt
+│   ├── jesus_freak2.txt
+│   ├── jesus_freak_album2.txt
+│   ├── so_help_me_god2.txt
+│   └── what_if_i_stumble2.txt
+├── Eric\ Clapton
+│   └── layla_accoustic.txt
+├── Eve\ 6
+│   └── hers\ to\ the\ night.php
+├── Fuel
+│   └── Bad\ Day.txt
+├── Goo\ Goo\ Dolls
+│   ├── black_balloon.php
+│   └── iris.php
+├── Grateful_Dead
+│   └── friend_of_the_devil.txt
+├── Incubus
+│   └── drive.txt
+├── Jimi
+│   ├── Purple\ haze.php
+│   ├── all\ along\ the\ watchtower.php
+│   ├── angel.php
+│   ├── foxy\ lady.php
+│   ├── little\ wing.php
+│   └── stone\ free.php
+├── Lenny\ Kravitz
+│   ├── american_woman.txt
+│   └── fly_away.txt
+├── Lifehouse
+│   └── lfhs_hangingbyamoment.txt
+├── Matchbox_20
+│   └── 3_am.txt
+├── Offspring
+│   ├── offs_originalprankster.txt
+│   ├── offs_wantyoubad.txt
+│   └── offs_wantyoubadcrd.txt
+├── R.E.M
+│   └── ImitationOfLife.txt
+├── Reference
+│   ├── Myesp.htm
+│   ├── crddic.txt
+│   ├── crdgen.php
+│   ├── esp_colors.gif
+│   ├── mega_2.gif
+│   ├── playingscales.php
+│   ├── scales
+│   │   ├── jjAmAlt.php
+│   │   └── mEm_heavymetal.php
+│   ├── tabpaper.doc
+│   ├── tabpaper.txt
+│   └── tunings.html
+├── Santana
+│   └── smooth.txt
+├── Stevie\ Nicks
+│   └── landslide.txt
+├── Stone\ Temple\ Pilots
+│   └── sour_girl.txt
+├── Sugar\ Ray
+│   └── someday.txt
+├── Sum\ 41
+│   └── fat\ lip.php
+├── Third\ eye\ blind
+│   └── never_let_you_go.php
+├── Tom\ Petty
+│   ├── CabinDownBelow.chopro
+│   ├── FreeFallin.chopro
+│   ├── InTheDarkOfTheSun2.txt
+│   ├── KingsHighway2.txt
+│   ├── LearningToFly2.txt
+│   ├── TheGreatWideOpen2.txt
+│   └── Wildflowers.chopro
+├── alien\ ant\ farm
+│   └── Smooth\ Criminal.txt
+├── bnl
+│   ├── brian_wilson.crd
+│   ├── brian_wilson.txt
+│   ├── if_i_had_a_million_dollars.crd
+│   ├── if_i_had_a_million_dollars.txt
+│   ├── one_week.crd
+│   ├── one_week.txt
+│   ├── pinch_me.tab
+│   └── pinch_me.txt
+├── l\ s
+│   └── sweet_home_alabama2.tab
+├── pearl_jam
+│   └── last_kiss.php
+├── red\ hot\ chili\ peppers
+│   ├── around_the_world.php
+│   ├── around_the_world.txt
+│   ├── californication.txt
+│   ├── californication2.php
+│   ├── otherside.php
+│   ├── otherside.txt
+│   ├── otherside2.php
+│   ├── parallel_universe.txt
+│   ├── scar_tissue.php
+│   ├── scar_tissue.txt
+│   ├── under_the_bridge.php
+│   ├── under_the_bridge.txt
+│   └── under_the_bridge2.php
+├── sr-71
+│   ├── politically_correct.txt
+│   └── right_now.txt
+├── tricks
+│   ├── Mario_bros.HTML
+│   ├── Mario_bros.htm
+│   ├── Mario_bros.php
+│   └── Mario_bros.txt
+├── u2
+│   ├── Achtung\ Baby
+│   │   ├── 1-zoostation.txt
+│   │   ├── 10-ultraviolet.txt
+│   │   ├── 11-acrobat.txt
+│   │   ├── 12-loveisblindness.txt
+│   │   ├── 2-evenbetterthantherealthing.txt
+│   │   ├── 3-one.txt
+│   │   ├── 4-untiltheendoftheworld.txt
+│   │   ├── 5-who'sgonnarideyourwildhorses.txt
+│   │   ├── 6-socruel.txt
+│   │   ├── 7-thefly.txt
+│   │   ├── 8-myteriousways.txt
+│   │   └── 9-tryintothowyourarmsaroundtheworld.txt
+│   ├── Best\ of
+│   │   ├── bad.txt
+│   │   ├── istillhav.txt
+│   │   ├── iwillfollow.txt
+│   │   ├── love_com.txt
+│   │   ├── pride.txt
+│   │   ├── streets.txt
+│   │   ├── sunday.txt
+│   │   └── sweetest.txt
+│   ├── The\ Unforgetable\ Fire
+│   │   ├── unforget
+│   │   │   ├── 4th.txt
+│   │   │   ├── 4thbass.txt
+│   │   │   ├── asortbas.txt
+│   │   │   ├── asortof.txt
+│   │   │   ├── bad.txt
+│   │   │   ├── badbass.txt
+│   │   │   ├── elvis.txt
+│   │   │   ├── indian.txt
+│   │   │   ├── mlk.txt
+│   │   │   ├── pridbass.txt
+│   │   │   ├── pride.txt
+│   │   │   ├── promen.txt
+│   │   │   ├── unfobass.txt
+│   │   │   ├── unforget.txt
+│   │   │   └── wire.txt
+│   │   └── unforget.zip
+│   └── atyclb
+│       ├── 1-beautiful_day.txt
+│       ├── 10-new_york.txt
+│       ├── 11-grace.txt
+│       ├── 2-stuck_in_a_moment.txt
+│       ├── 3-elevation.txt
+│       ├── 4-walk_on.txt
+│       ├── 5-kite.txt
+│       ├── 6-in_a_little_while.txt
+│       ├── 7-wild_honey.txt
+│       ├── 8-peace_on_earth.txt
+│       └── 9-when_i_look_at_the_world.txt
+└── zepplin
+    └── stairway\ to\ heaven.txt
+
+43 directories, 145 files
